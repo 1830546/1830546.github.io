@@ -1,0 +1,37 @@
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+   /* background-color:#2980b9;
+    border-color: aquamarine;*/
+    width: 350px;
+    height:500px;
+    border-radius: 25px;
+  }
+  .calculadora td button{
+    display:block;
+    width:100px;
+    height: 100px;
+    font-size: 30px;
+  }
+
+  #creditos{
+    display:block;
+    padding-top:50px;
+    color:#fff;
+    text-align: center;
+    width:300px;
+  }
+
+  #resultado{
+    display:block;
+    padding: 15px;
+    text-align: left;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:450px;
+    height: 100px;
+    line-height: 100px;
+    background-color:#D7D7D7;
+    border-radius: 25px;
+  }

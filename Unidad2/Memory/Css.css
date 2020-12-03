@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
+*{
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+.contenedor-vidas span{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 5px;
+  
+}
+.contenedor-vidas img{
+
+    width: 40px;
+    margin: 5px;
+}
+.titulo{
+    
+    height: 80px;
+    background-color: #00C6FE ;
+    text-align: center;
+    font-size: 50px;
+    
+
+}
+
+
+
+.box {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.jirafa{
+   margin-right: 80%;
+}
+
+/*
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.titulo{
+    
+    height: 80px;
+    background-color: #3CCCE0 ;
+}
+
+.Jugar{
+    width: 150px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+
+Aquí inicio con el css del index
+
+.contenedor{
+    max-width: 900px;
+    width: 100%;
+    min-height: 300px;
+    border: dashed 1px  #808080;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+.Elemento{
+    width: 100px;
+     height: 150px;
+    border: solid .5px #000000;
+     border-radius: 5%;
+     background-image: url(imagenes/Madera.png);
+     background-repeat: no-repeat;
+     background-position: 5px 10px;
+     background-size: 100px;
+     display: inline-block;
+     margin: 10px;
+}
+
+esta seccion es para los aciertos xd
+
+.acierto{
+    background-image: url(imagenes/acierto.png);
+}
+
+
+Todo el elemnto del banner
+
+.img-banner{
+    width: 150px;
+    height: 150px;
+    display: block;
+}
+
+.banner{
+    margin-bottom: 10px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+.vidas span{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 5px;
+  
+}
+
+ Aquí inicia el contador UwU
+
+.tiempo{
+    float: left;
+    text-align: right;
+    width: 50%;
+    padding-top: 30px;
+
+}
+.titulo label{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+
+.Clear{
+ clear: both;
+}*/
+
