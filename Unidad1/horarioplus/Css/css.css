@@ -1,0 +1,82 @@
+a{
+    color: black;
+    font-family: cursive;
+     text-decoration:none;
+}
+
+
+
+p{
+   
+    font-family: cursive;
+    font-size: 12px;
+    padding-left: 16em;
+    
+}
+
+
+
+h1{
+  color: white;
+  line-height: 200%;
+    font-family: cursive;
+  background:#0A4C75; 
+}
+
+
+
+table {
+   width: 80%;
+   border-collapse: collapse;
+}
+
+
+
+th, td {
+   
+   font-family: cursive;
+   font-size: 15px;
+   width: 5%;
+   padding: 0.6em;
+
+}
+
+
+
+.Formulacion{
+	background-color:#8ACAF1;
+}
+
+.automata{
+	background-color:#9DF43C;
+}
+
+.ingles{
+    background-color: #54B0F0;
+}
+
+.fide{
+    background-color: #F7F328;
+}
+
+.waifu{
+    background-color: #C385E7;
+}
+
+.edit{
+    background-color: #51EAD0;
+}
+
+.jazu{
+    background-color: #F6D854;
+}
+
+
+.libre{
+    background-color: #E2E9E9;
+}
+
+
+.contorno{
+    background-color: #D5EAF1;
+}

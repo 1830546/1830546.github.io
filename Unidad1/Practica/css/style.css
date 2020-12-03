@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari:wght@100;400;700&display=swap');
+*{
+	margin: 0;
+	padding: 5px;
+    font-family: 'Manjari', sans-serif;
+}
+
+body{
+	width: 70%;
+	margin: auto;
+
+}
+
+.contenido{
+	box-sizing: content-box;
+}
+
+header{
+	background-color: #000000;
+	color: #FFFFFF;
+	display: flex;
+	padding: 10px 40px;
+	align-items: center; /* En el eje de las Y y justify-content es para el de las X*/
+
+}
+
+header img{
+	width: 10%;
+	height: 10%;
+	margin-right: 15px;
+}
+
+header>p{
+	width: 30%;
+}
+
+header div{
+	width: 50%;
+
+}
+
+header div p{
+	font-size: 20px;
+}
+
+h1{
+	font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+h2{
+	font-size: 20px;
+    font-weight: bold;
+	text-transform: capitalize;
+}
+
+aside h3{
+    color: #777777;
+}
+
+
+nav{
+	background-image: linear-gradient(to right, rgb(224, 122, 6), rgb(255, 225, 197));
+	height: 30px;
+	/*padding: 5px 0px;*/
+}
+
+nav ul li{
+	display: inline-block;
+	list-style: none;
+	height: 25px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #000000;
+	text-transform: uppercase;
+	width: 40px;
+
+}
+
+nav ul li a:hover{
+	background-image: linear-gradient(to left, rgb(224, 122, 6), rgb(255, 225, 197));
+}
+
+.banner{
+	width: 100%;
+	 
+}
+
+.principal{
+	background-color: #FFFFFF;
+	display: flex;
+	padding: 10px 25px;
+}
+
+.principal main{
+	width: 70%;
+	margin-right: 25px;
+}
+main p{
+        line-height: 1.2; 
+        text-align: justify;
+}
+aside p{
+        line-height: 1.2; 
+        text-align: justify;
+}
+
+.principal aside{
+	width: 30%;
+}
+
+.principal p{
+	font-size: 20px;
+}
+
+
+
+.principal section{
+	margin-bottom: 20px;
+}
+
+
+.fotos-artistas{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+.fotos-artistas img{
+    width: 30%;
+    margin: 5px;
+    border-radius: 10%;
+    
+}
+.fotos-artistasdos{
+    display: flex;
+}
+
+.fotos-artistasdos img{
+    width: 15%;
+    margin: 1px 5px;
+    border-radius: 10%;
+    
+}
+
+.artista{
+    border-top: 1px dashed;
+}
+
+
+.fotos-art{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 5%;
+}
+
+.fotos-art img{
+    width: 5%;
+    margin: 5px;
+    border-radius: 10%;
+    
+
+

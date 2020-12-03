@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari:wght@100;400;700&display=swap');
+*{
+    margin: 0;
+    padding: 15px;
+    font-family: 'Manjari', sans-serif;
+    
+}
+.contenido{
+	box-sizing: content-box;
+}
+
+body{
+    width: 75%;
+    margin: auto;
+}
+.principal main{
+	width: 70%;
+	margin-right: 25px;
+}
+.principal aside{
+	width: 30%;
+}
+
+article{
+    width: 100%;  
+    background-color: #F0F8FF;
+}
+head{
+     width:100%
+}
+
+/*aside{
+    
+    padding: 1%;
+    width: 40%;
+    background-color: #DDDDDD;
+}*/
+
+h1{
+    color: cornflowerblue;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: gray;    
+}
+    
+    
